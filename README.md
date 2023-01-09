@@ -36,7 +36,7 @@ Steps are to be completed under the div with `id="exercise3"`
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
 
-## Exercise 4
+## Exercise 4`./images/example.png`
 
 Steps are to be completed under the div with `id="exercise4"`
 
